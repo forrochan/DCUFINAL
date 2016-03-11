@@ -1,0 +1,1 @@
+//Archivo vacio donde se ubican las funciones javascript generales.
