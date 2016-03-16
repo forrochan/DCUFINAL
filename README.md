@@ -24,134 +24,100 @@ DCUFINAL<br />
 │   ├── Seguridad.docx<br />
 │   ├── Trabajo.docx<br />
 │   └── Turismo.docx<br />
-├── imgs
-│   ├── accesibilidad_general
-│   │   └── wheelchair-99038_960_720.png
-│   ├── ministerio_de_agroindustria_de_la_nacion_argentina
-│   │   ├── errores_accesibilidad_agroindustria.png
-│   │   ├── screenshot.png
-│   │   └── Thumbs.db
-│   ├── ministerio_de_ambiente_y_desarrollo_sustentable
-│   │   ├── errores_accesibilidad_ambiente.png
-│   │   ├── errores_w3c_ambiente.png
-│   │   └── screenshot.png
-│   ├── ministerio_de_desarrollo_social
-│   │   ├── errores_accesibilidad_desarrollo.png
-│   │   └── screenshot.png
-│   ├── ministerio_de_educacion
-│   │   ├── errores_accesibilidad_educacion.png
-│   │   ├── errores_w3s_educacion.png
-│   │   └── screenshot.png
-│   ├── ministerio_de_justicia
-│   │   ├── errores_accesibilidad_justicia.png
-│   │   └── errores_w3s_justicia.png
-│   ├── ministerio_de_relaciones_exteriores_y_culto
-│   │   ├── errores_accesibilidad_relaciones.png
-│   │   └── errores_w3s_relaciones.png
-│   ├── ministerio_de_salud
-│   │   ├── errores_accesibilidad_salud.png
-│   │   └── screenshot.png
-│   ├── ministerio_de_seguridad
-│   │   ├── errores_accesibilidad_seguridad.png
-│   │   ├── errores_w3s_seguridad.png
-│   │   └── screenshot.png
-│   ├── ministerio_de_trabajo
-│   │   ├── errores_accesibilidad_trabajo.png
-│   │   └── screenshot.png
-│   └── ministerio_de_turismo
-│       ├── errores_accesibilidad_turismo.png
-│       └── screenshot.png
-├── libs
-│   ├── bootstrap
-│   │   ├── css
-│   │   │   ├── bootstrap.css
-│   │   │   ├── bootstrap.css.map
-│   │   │   ├── bootstrap.min.css
-│   │   │   ├── bootstrap.min.css.map
-│   │   │   ├── bootstrap-theme.css
-│   │   │   ├── bootstrap-theme.css.map
-│   │   │   ├── bootstrap-theme.min.css
-│   │   │   └── bootstrap-theme.min.css.map
-│   │   ├── fonts
-│   │   │   ├── glyphicons-halflings-regular.eot
-│   │   │   ├── glyphicons-halflings-regular.svg
-│   │   │   ├── glyphicons-halflings-regular.ttf
-│   │   │   ├── glyphicons-halflings-regular.woff
-│   │   │   └── glyphicons-halflings-regular.woff2
-│   │   └── js
-│   │       ├── bootstrap.js
-│   │       ├── bootstrap.min.js
-│   │       └── npm.js
-│   └── jquery
-│       └── jquery-2.2.1.min.js
-├── output
-│   ├── audit.txt
-│   ├── avi
-│   ├── bmp
-│   ├── dll
-│   ├── doc
-│   ├── docx
-│   ├── exe
-│   ├── gif
-│   ├── htm
-│   ├── jar
-│   ├── jpg
-│   ├── mbd
-│   ├── mov
-│   ├── mp4
-│   ├── mpg
-│   ├── ole
-│   ├── pdf
-│   ├── png
-│   ├── ppt
-│   ├── pptx
-│   ├── rar
-│   ├── rif
-│   ├── sdw
-│   ├── sx
-│   ├── sxc
-│   ├── sxi
-│   ├── sxw
-│   ├── vis
-│   ├── wav
-│   ├── wmv
-│   ├── xls
-│   ├── xlsx
-│   └── zip
-├── pdfs
-│   ├── Guia_Accesibilidad_2_0_ONTI.pdf
-│   ├── ley_accesibilidad_web.pdf
-│   ├── ministerio_de_agroindustria_de_la_nacion_argentina
-│   │   ├── agroindustria_accesibilidad.html
-│   │   └── agroindustria_accesibilidad.pdf
-│   ├── ministerio_de_ambiente_y_desarrollo_sustentable
-│   │   ├── desarrollo_accesibilidad.html
-│   │   └── desarrollo_accesibilidad.pdf
-│   ├── ministerio_de_desarrollo_social
-│   │   └── error_de_pdf.png
-│   ├── ministerio_de_educacion
-│   │   ├── educacion_accesibilidad.html
-│   │   └── educacion_accesibilidad.pdf
-│   ├── ministerio_de_justicia
-│   │   ├── justicia_accesibilidad.html
-│   │   └── justicia_accesibilidad.pdf
-│   ├── ministerio_de_relaciones_exteriores_y_culto
-│   │   ├── relaciones_accesibilidad.html
-│   │   └── relaciones_accesibilidad.pdf
-│   ├── ministerio_de_salud
-│   │   ├── salud_accesibilidad.html
-│   │   └── salud_accesibilidad.pdf
-│   ├── ministerio_de_seguridad
-│   │   ├── seguridad_accesibilidad.html
-│   │   └── seguridad_accesibilidad.pdf
-│   ├── ministerio_de_trabajo
-│   │   ├── trabajo_accesibilidad.html
-│   │   └── trabajo_accesibilidad.pdf
-│   └── ministerio_de_turismo
-│       ├── turismo_accesibilidad.html
-│       └── turismo_accesibilidad.pdf
-├── README.md
-├── template.html
+├── imgs<br />
+│   ├── accesibilidad_general<br />
+│   │   └── wheelchair-99038_960_720.png<br />
+│   ├── ministerio_de_agroindustria_de_la_nacion_argentina<br />
+│   │   ├── errores_accesibilidad_agroindustria.png<br />
+│   │   ├── screenshot.png<br />
+│   │   └── Thumbs.db<br />
+│   ├── ministerio_de_ambiente_y_desarrollo_sustentable<br />
+│   │   ├── errores_accesibilidad_ambiente.png<br />
+│   │   ├── errores_w3c_ambiente.png<br />
+│   │   └── screenshot.png<br />
+│   ├── ministerio_de_desarrollo_social<br />
+│   │   ├── errores_accesibilidad_desarrollo.png<br />
+│   │   └── screenshot.png<br />
+│   ├── ministerio_de_educacion<br />
+│   │   ├── errores_accesibilidad_educaci<br />on.png
+│   │   ├── errores_w3s_educacion.png<br />
+│   │   └── screenshot.png<br />
+│   ├── ministerio_de_justicia<br />
+│   │   ├── errores_accesibilidad_justicia.png<br />
+│   │   └── errores_w3s_justicia.png<br />
+│   ├── ministerio_de_relaciones_exteriores_y_culto<br />
+│   │   ├── errores_accesibilidad_relaciones.png<br />
+│   │   └── errores_w3s_relaciones.png<br />
+│   ├── ministerio_de_salud<br />
+│   │   ├── errores_accesibilidad_salud.png<br />
+│   │   └── screenshot.png<br />
+│   ├── ministerio_de_seguridad<br />
+│   │   ├── errores_accesibilidad_seguridad.png<br />
+│   │   ├── errores_w3s_seguridad.png<br />
+│   │   └── screenshot.png<br />
+│   ├── ministerio_de_trabajo<br />
+│   │   ├── errores_accesibilidad_trabajo.png<br />
+│   │   └── screenshot.png<br />
+│   └── ministerio_de_turismo<br />
+│       ├── errores_accesibilidad_turismo.png<br />
+│       └── screenshot.png<br />
+├── libs<br />
+│   ├── bootstrap<br />
+│   │   ├── css<br />
+│   │   │   ├── bootstrap.css<br />
+│   │   │   ├── bootstrap.css.map<br />
+│   │   │   ├── bootstrap.min.css<br />
+│   │   │   ├── bootstrap.min.css.map<br />
+│   │   │   ├── bootstrap-theme.css<br />
+│   │   │   ├── bootstrap-theme.css.map<br />
+│   │   │   ├── bootstrap-theme.min.css<br />
+│   │   │   └── bootstrap-theme.min.css.map<br />
+│   │   ├── fonts<br />
+│   │   │   ├── glyphicons-halflings-regular.eot<br />
+│   │   │   ├── glyphicons-halflings-regular.svg<br />
+│   │   │   ├── glyphicons-halflings-regular.ttf<br />
+│   │   │   ├── glyphicons-halflings-regular.woff<br />
+│   │   │   └── glyphicons-halflings-regular.woff2<br />
+│   │   └── js<br />
+│   │       ├── bootstrap.js<br />
+│   │       ├── bootstrap.min.js<br />
+│   │       └── npm.js<br />
+│   └── jquery<br />
+│       └── jquery-2.2.1.min.js<br />
+├── pdfs<br />
+│   ├── Guia_Accesibilidad_2_0_ONTI.pdf<br />
+│   ├── ley_accesibilidad_web.pdf<br />
+│   ├── ministerio_de_agroindustria_de_la_nacion_argentina<br />
+│   │   ├── agroindustria_accesibilidad.html<br />
+│   │   └── agroindustria_accesibilidad.pdf<br />
+│   ├── ministerio_de_ambiente_y_desarrollo_sustentable<br />
+│   │   ├── desarrollo_accesibilidad.html<br />
+│   │   └── desarrollo_accesibilidad.pdf<br />
+│   ├── ministerio_de_desarrollo_social<br />
+│   │   └── error_de_pdf.png<br />
+│   ├── ministerio_de_educacion<br />
+│   │   ├── educacion_accesibilidad.html<br />
+│   │   └── educacion_accesibilidad.pdf<br />
+│   ├── ministerio_de_justicia<br />
+│   │   ├── justicia_accesibilidad.html<br />
+│   │   └── justicia_accesibilidad.pdf<br />
+│   ├── ministerio_de_relaciones_exteriores_y_culto<br />
+│   │   ├── relaciones_accesibilidad.html<br />
+│   │   └── relaciones_accesibilidad.pdf<br />
+│   ├── ministerio_de_salud<br />
+│   │   ├── salud_accesibilidad.html<br />
+│   │   └── salud_accesibilidad.pdf<br />
+│   ├── ministerio_de_seguridad<br />
+│   │   ├── seguridad_accesibilidad.html<br />
+│   │   └── seguridad_accesibilidad.pdf<br />
+│   ├── ministerio_de_trabajo<br />
+│   │   ├── trabajo_accesibilidad.html<br />
+│   │   └── trabajo_accesibilidad.pdf<br />
+│   └── ministerio_de_turismo<br />
+│       ├── turismo_accesibilidad.html<br />
+│       └── turismo_accesibilidad.pdf<br />
+├── README.md<br />
+├── template.html<br />
 └── views
     ├── css_para_ministerios
     │   └── css_common.css
