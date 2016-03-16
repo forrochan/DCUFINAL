@@ -39,7 +39,7 @@ DCUFINAL<br />
 │   │   ├── errores_accesibilidad_desarrollo.png<br />
 │   │   └── screenshot.png<br />
 │   ├── ministerio_de_educacion<br />
-│   │   ├── errores_accesibilidad_educacion.png<br /><br />
+│   │   ├── errores_accesibilidad_educacion.png<br />
 │   │   ├── errores_w3s_educacion.png<br />
 │   │   └── screenshot.png<br />
 │   ├── ministerio_de_justicia<br />
