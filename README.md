@@ -39,7 +39,7 @@ DCUFINAL<br />
 │   │   ├── errores_accesibilidad_desarrollo.png<br />
 │   │   └── screenshot.png<br />
 │   ├── ministerio_de_educacion<br />
-│   │   ├── errores_accesibilidad_educaci<br />on.png
+│   │   ├── errores_accesibilidad_educacion.png<br /><br />
 │   │   ├── errores_w3s_educacion.png<br />
 │   │   └── screenshot.png<br />
 │   ├── ministerio_de_justicia<br />
@@ -118,23 +118,23 @@ DCUFINAL<br />
 │       └── turismo_accesibilidad.pdf<br />
 ├── README.md<br />
 ├── template.html<br />
-└── views
-    ├── css_para_ministerios
-    │   └── css_common.css
-    ├── js_para_ministerios
-    │   └── common.js
-    ├── ministerios
-    │   ├── ministeriodeagroindustria.html
-    │   ├── ministeriodeambiente.html
-    │   ├── ministeriodedesarrollosocial.html
-    │   ├── ministeriodeeducacion.html
-    │   ├── ministeriodejusticia.html
-    │   ├── ministerioderelacionexterioryculto.html
-    │   ├── ministeriodesalud.html
-    │   ├── ministeriodeseguridad.html
-    │   ├── ministeriodetrabajo.html
-    │   └── ministeriodeturismo.html
-    └── referencias
-        └── referencias.html
+└── views<br />
+    ├── css_para_ministerios<br />
+    │   └── css_common.css<br />
+    ├── js_para_ministerios<br />
+    │   └── common.js<br />
+    ├── ministerios<br />
+    │   ├── ministeriodeagroindustria.html<br />
+    │   ├── ministeriodeambiente.html<br />
+    │   ├── ministeriodedesarrollosocial.html<br />
+    │   ├── ministeriodeeducacion.html<br />
+    │   ├── ministeriodejusticia.html<br />
+    │   ├── ministerioderelacionexterioryculto.html<br />
+    │   ├── ministeriodesalud.html<br />
+    │   ├── ministeriodeseguridad.html<br />
+    │   ├── ministeriodetrabajo.html<br />
+    │   └── ministeriodeturismo.html<br />
+    └── referencias<br />
+        └── referencias.html<br />
 
 68 directories, 89 files
