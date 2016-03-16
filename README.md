@@ -12,18 +12,18 @@ http://achecker.ca/checker/index.php para Accesibilidad.
 
 Directorio de carpetas:
 
-DCUFINAL
-├── docs/n
-│   ├── agroindustria.docx/n
-│   ├── Ambiente.docx/n
-│   ├── Desarrollosocial.docx/n
-│   ├── Educacion.docx/n
-│   ├── Justicia.docx/n
-│   ├── Relaciones.docx/n
-│   ├── Salud.docx/n
-│   ├── Seguridad.docx/n
-│   ├── Trabajo.docx/n
-│   └── Turismo.docx/n
+DCUFINAL<br />
+├── docs<br />
+│   ├── agroindustria.docx<br />
+│   ├── Ambiente.docx<br />
+│   ├── Desarrollosocial.docx<br />
+│   ├── Educacion.docx<br />
+│   ├── Justicia.docx<br />
+│   ├── Relaciones.docx<br />
+│   ├── Salud.docx<br />
+│   ├── Seguridad.docx<br />
+│   ├── Trabajo.docx<br />
+│   └── Turismo.docx<br />
 ├── imgs
 │   ├── accesibilidad_general
 │   │   └── wheelchair-99038_960_720.png
