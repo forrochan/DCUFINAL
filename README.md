@@ -13,6 +13,7 @@ http://achecker.ca/checker/index.php para Accesibilidad.
 Directorio de carpetas:
 
 DCUFINAL<br />
+.<br />
 ├── docs<br />
 │   ├── agroindustria.docx<br />
 │   ├── Ambiente.docx<br />
@@ -29,19 +30,16 @@ DCUFINAL<br />
 │   │   └── wheelchair-99038_960_720.png<br />
 │   ├── ministerio_de_agroindustria_de_la_nacion_argentina<br />
 │   │   ├── errores_accesibilidad_agroindustria.png<br />
-│   │   ├── screenshot.png<br />
-│   │   └── Thumbs.db<br />
+│   │   └── errores_w3s_agro.png<br />
 │   ├── ministerio_de_ambiente_y_desarrollo_sustentable<br />
 │   │   ├── errores_accesibilidad_ambiente.png<br />
-│   │   ├── errores_w3c_ambiente.png<br />
-│   │   └── screenshot.png<br />
+│   │   └── errores_w3c_ambiente.png<br />
 │   ├── ministerio_de_desarrollo_social<br />
 │   │   ├── errores_accesibilidad_desarrollo.png<br />
-│   │   └── screenshot.png<br />
+│   │   └── errores_w3s_desarrollo.png<br />
 │   ├── ministerio_de_educacion<br />
 │   │   ├── errores_accesibilidad_educacion.png<br />
-│   │   ├── errores_w3s_educacion.png<br />
-│   │   └── screenshot.png<br />
+│   │   └── errores_w3s_educacion.png<br />
 │   ├── ministerio_de_justicia<br />
 │   │   ├── errores_accesibilidad_justicia.png<br />
 │   │   └── errores_w3s_justicia.png<br />
@@ -50,17 +48,16 @@ DCUFINAL<br />
 │   │   └── errores_w3s_relaciones.png<br />
 │   ├── ministerio_de_salud<br />
 │   │   ├── errores_accesibilidad_salud.png<br />
-│   │   └── screenshot.png<br />
+│   │   └── errores_w3s_salud.png<br />
 │   ├── ministerio_de_seguridad<br />
 │   │   ├── errores_accesibilidad_seguridad.png<br />
-│   │   ├── errores_w3s_seguridad.png<br />
-│   │   └── screenshot.png<br />
+│   │   └── errores_w3s_seguridad.png<br />
 │   ├── ministerio_de_trabajo<br />
 │   │   ├── errores_accesibilidad_trabajo.png<br />
-│   │   └── screenshot.png<br />
+│   │   └── errores_w3s_trabajo.png<br />
 │   └── ministerio_de_turismo<br />
 │       ├── errores_accesibilidad_turismo.png<br />
-│       └── screenshot.png<br />
+│       └── errores_w3s_turismo.png<br />
 ├── libs<br />
 │   ├── bootstrap<br />
 │   │   ├── css<br />
@@ -94,7 +91,9 @@ DCUFINAL<br />
 │   │   ├── desarrollo_accesibilidad.html<br />
 │   │   └── desarrollo_accesibilidad.pdf<br />
 │   ├── ministerio_de_desarrollo_social<br />
-│   │   └── error_de_pdf.png<br />
+│   │   ├── social_accesibilidad.html<br />
+│   │   ├── social_accesibilidad_images<br />
+│   │   └── social_accesibilidad.pdf<br />
 │   ├── ministerio_de_educacion<br />
 │   │   ├── educacion_accesibilidad.html<br />
 │   │   └── educacion_accesibilidad.pdf<br />
@@ -137,4 +136,4 @@ DCUFINAL<br />
     └── referencias<br />
         └── referencias.html<br />
 
-68 directories, 89 files
+36 directories, 993 files
